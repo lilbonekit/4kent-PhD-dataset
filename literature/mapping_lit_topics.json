@@ -1,0 +1,281 @@
+{
+  "mapped_data": [
+    {
+      "name": "Hardfacing studies of Ni alloys: a critical review",
+      "doi": "10.1016/j.jmrt.2020.12.026",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Описані механізми абразивного, адгезійного та ковзного зношування."
+        },
+        {
+          "topic": "1.2 Методи відновлення",
+          "why": "Розглянуті технології наплавлення (PTA, HVOF, лазерне)."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Описані NiCrBSi та зміцнюючі фази (карбіди, бориди, силіциди)."
+        }
+      ],
+      "recommendations": "Использовать как базовый обзор для всей главы 1."
+    },
+    {
+      "name": "Near-Equilibrium Transformation Sequence of NiCrBSi Self-Fluxing Nickel Alloy",
+      "doi": "10.1007/s11661-025-07732-5",
+      "topics": [
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Детально описані фазові перетворення та склад NiCrBSi."
+        }
+      ],
+      "recommendations": "Использовать для обоснования фазового состава."
+    },
+    {
+      "name": "Microstructural analysis of flame-sprayed and PTA-deposited nickel-based self-fluxing alloy coatings",
+      "doi": "10.1007/s40194-024-01814-5",
+      "topics": [
+        {
+          "topic": "1.2 Методи відновлення",
+          "why": "Розглянуті методи напилення та наплавлення."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Аналіз NiCrBSi та композитів з WC."
+        }
+      ],
+      "recommendations": "Использовать для обоснования WC."
+    },
+    {
+      "name": "Properties of NiCrBSi coating, as sprayed and remelted by different technologies",
+      "doi": "10.1016/j.surfcoat.2014.05.009",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Є результати випробувань зносу."
+        },
+        {
+          "topic": "1.2 Методи відновлення",
+          "why": "Порівнюються технології напилення і переплавлення."
+        }
+      ],
+      "recommendations": "Использовать для обоснования переплавления."
+    },
+    {
+      "name": "High temperature wear resistance of laser cladding NiCrBSi and NiCrBSi/WC-Ni composite coatings",
+      "doi": "10.1016/j.wear.2011.01.003",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Є експериментальні дані зносу."
+        },
+        {
+          "topic": "1.2 Методи відновлення",
+          "why": "Лазерне наплавлення."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Порівняння NiCrBSi і NiCrBSi/WC."
+        }
+      ],
+      "recommendations": "Ключевой источник по износу."
+    },
+    {
+      "name": "High temperature corrosion studies of cermet particle reinforced NiCrBSi hardfacings",
+      "doi": "10.1016/j.surfcoat.2013.02.009",
+      "topics": [
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Розглянуті карбідні фази (TiC, Cr3C2)."
+        }
+      ],
+      "recommendations": "Использовать как дополнительное обоснование выбора карбидов."
+    },
+    {
+      "name": "Microstructural and Wear Characteristics of High Velocity Oxygen Fuel (HVOF) Sprayed NiCrBSi–SiC Composite Coating on SAE 1030 Steel",
+      "doi": "10.1007/s13369-013-0536-y",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Показано покращення зносостійкості."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Введення SiC."
+        }
+      ],
+      "recommendations": "Использовать для SiC."
+    },
+    {
+      "name": "Tribological behavior and mechanism of NiCrBSi–Y2O3 composite coatings",
+      "doi": "10.1016/S1003-6326(13)62689-8",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Є коефіцієнт тертя і знос."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "Оксидна фаза Y2O3."
+        }
+      ],
+      "recommendations": "Добавить как пример оксидного упрочнения."
+    },
+    {
+      "name": "Effect of induction remelting on the microstructure and properties of in situ TiN-reinforced NiCrBSi composite coatings",
+      "doi": "10.1016/j.surfcoat.2018.02.024",
+      "topics": [
+        {
+          "topic": "1.3 Матеріали",
+          "why": "TiN як зміцнююча фаза."
+        },
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "in-situ синтез TiN."
+        }
+      ],
+      "recommendations": "КЛЮЧЕВОЙ источник для TiN."
+    },
+    {
+      "name": "Tribological Properties of Solid Solution Strengthened Laser Cladded NiCrBSi/WC-12Co Metal Matrix Composite Coatings",
+      "doi": "10.3390/ma15010342",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Є зниження зносу."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "WC-Co."
+        }
+      ],
+      "recommendations": "Использовать как сильный аргумент за WC."
+    },
+    {
+      "name": "Laser Cladding of NiCrBSi/WC + W2C Composite Coatings",
+      "doi": "10.3390/coatings13030576",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Залежність зносу від карбідів."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "WC + W2C."
+        }
+      ],
+      "recommendations": "Использовать для выбора WC/W2C."
+    },
+    {
+      "name": "The influence of laser remelting on microstructural changes and hardness level of flame-sprayed NiCrBSi coatings with tungsten carbide addition",
+      "doi": "10.1016/j.surfcoat.2024.130403",
+      "topics": [
+        {
+          "topic": "1.2 Методи відновлення",
+          "why": "Лазерне переплавлення."
+        },
+        {
+          "topic": "1.3 Матеріали",
+          "why": "WC/W2C."
+        }
+      ],
+      "recommendations": "Использовать для технологических параметров."
+    },
+    {
+      "name": "Wear and corrosion properties of in-situ TiC–TiB2 modified Ni-based composite coatings with different B/C ratios prepared by laser cladding",
+      "doi": "10.1016/j.ceramint.2023.11.027",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Покращення зносу."
+        },
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "in-situ формування TiC–TiB2."
+        }
+      ],
+      "recommendations": "Использовать как аналог для TiC/TiB2."
+    },
+    {
+      "name": "The Microstructure and Properties of Laser-Cladded Ni-Based Self-Fluxing Alloy Coatings Reinforced by TiC Particles",
+      "doi": "10.3390/coatings15050527",
+      "topics": [
+        {
+          "topic": "1.3 Матеріали",
+          "why": "TiC."
+        }
+      ],
+      "recommendations": "Использовать для карбидов титана."
+    },
+    {
+      "name": "Composite material for surfacing, obtained by self-propagating high-temperature synthesis",
+      "doi": "10.15407/fm30.04.526",
+      "topics": [
+        {
+          "topic": "1.3 Матеріали",
+          "why": "TiC, SiC, TiN."
+        },
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "Прямо СВС."
+        }
+      ],
+      "recommendations": "CORE источник под твою работу."
+    },
+    {
+      "name": "Plasma coatings based on self-fluxing NiCrBSi alloy with improved wear resistance properties",
+      "doi": "10.15407/pmach2023.03.054",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Покращення абразивного зносу."
+        },
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "СВС модифікація."
+        }
+      ],
+      "recommendations": "Использовать для главы 1.4."
+    },
+    {
+      "name": "Study of the Structure and Properties of Deposited Layers of NiCrBSi Alloy, Modified with Composite Material",
+      "doi": "10.15407/pmach2023.04.067",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Є приріст зносостійкості."
+        },
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "СВС композиції."
+        }
+      ],
+      "recommendations": "Использовать для результатов."
+    },
+    {
+      "name": "Дослідження впливу параметрів механічної активації шихти Ti–C–Al–SiO2–Al2O3–Fe2O3–ПТ-НА-01 на тривалість синтезу композиційного матеріалу, що модифікує",
+      "doi": "10.30977/BUL.2219-5548.2023.100.0.42",
+      "topics": [
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "Підготовка шихти для СВС."
+        }
+      ],
+      "recommendations": "Использовать для технологической части."
+    },
+    {
+      "name": "Структура та властивості плазмових покриттів, напилених композиційним матеріалом, одержаним з використанням СВС-процесу",
+      "doi": "10.35546/kntu2078-4481.2023.2.6",
+      "topics": [
+        {
+          "topic": "1.1 Аналіз зношування",
+          "why": "Підвищення зносостійкості."
+        },
+        {
+          "topic": "1.4 СВС / технології синтезу",
+          "why": "СВС процес."
+        }
+      ],
+      "recommendations": "Использовать как подтверждение эффективности СВС."
+    }
+  ]
+}

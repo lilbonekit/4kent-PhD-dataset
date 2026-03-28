@@ -1,0 +1,11 @@
+{
+  "theme": "base",
+  "themeVariables": {
+    "fontFamily": "Times New Roman",
+    "primaryColor": "#ffffff",
+    "primaryBorderColor": "#000000",
+    "lineColor": "#000000",
+    "secondaryColor": "#f5f5f5",
+    "tertiaryColor": "#ffffff"
+  }
+}

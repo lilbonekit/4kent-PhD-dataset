@@ -1,0 +1,82 @@
+graph TB
+
+    %% ===== TOP =====
+    A[<b>Інтегральна зносостійкість покриття Ni–Cr–B–Si</b>]
+
+    %% ===== LEVEL 1: MECHANISMS =====
+    subgraph L3["Механізми зношування"]
+        direction LR
+        F[Мікрорізання]
+        G[Крихке викришування]
+        H[Відшарування]
+    end
+
+    F --> A
+    G --> A
+    H --> A
+
+    %% ===== LEVEL 2: CORE =====
+    E((Стабільність мікроструктури))
+
+    E --> F
+    E --> G
+    E --> H
+
+    %% ===== LEVEL 3: STRUCTURE =====
+    subgraph L2["Структурні характеристики"]
+        direction LR
+        D1[γ-Ni матриця]
+        D2[Ni–Ni₃B–Ni₃Si]
+        D3[Бориди / карбіди]
+        DEF[Дефекти]
+    end
+
+    D1 --> E
+    D2 --> E
+    D3 --> E
+    DEF --> E
+
+    %% ===== LEVEL 4: PHASE =====
+    D[Фазовий склад]
+
+    D --> D1
+    D --> D2
+    D --> D3
+
+    %% ===== LEVEL 5: INPUT =====
+    subgraph INPUT["Фактори"]
+        direction LR
+
+        subgraph INT["СВС-синтез"]
+            direction TB
+            C1[ΔH]
+            C2[Дисперсність TiC / TiB₂ / WC]
+            C3[Металургійний зв’язок]
+        end
+
+        subgraph EXT["Експлуатація"]
+            direction TB
+            B1[Абразив SiO₂ / SiC / Al₂O₃]
+            B2[Навантаження: P]
+            B3[Швидкість: V]
+            B4[Температура: T]
+        end
+    end
+
+    C1 --> D
+    C2 --> D
+    C3 --> DEF
+
+    B1 --> F
+    B2 --> F
+    B3 --> F
+
+    B2 --> G
+    B4 --> G
+
+    B2 --> H
+    B4 --> H
+
+    %% ===== STYLE =====
+    style A fill:#e6e6e6,stroke:#000,stroke-width:2px
+    style E fill:#cccccc,stroke:#000,stroke-width:2px

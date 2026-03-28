@@ -1,0 +1,11 @@
+graph LR
+    A["Вихідна шихта:<br/>Ni-Cr-B-Si + Ti + C"] --> B{"Ініціювання<br/>реакції"}
+    B --> C["Екзотермічна<br/>взаємодія"]
+    C --> D["Хвиля горіння<br/>$$V_{comb}$$"]
+    D --> E["Синтез фаз у процесі реакції:<br/>$$TiC, TiB_2, Ni_3B$$"]
+    F["Готовий СВС-модифікатор"]
+    
+    E --> F
+
+    style A fill:#f5f5f5,stroke:#333
+    style F fill:#e0e0e0,stroke:#333,stroke-width:2px
